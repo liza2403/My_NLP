@@ -1,5 +1,4 @@
 # My_NLP
-This work is devoted to dealing with such problem as spending your time on searching exact kind of information throughout a big amount of data on a specific resource 
 
 Кожного дня людина отримує безліч нової інформації. В якийсь момент постає необхідність відокремлювати потрібні дані від тих, до яких не має інтересу конкретний чоловік або жінка. Економія часу на пошук новин певного спектру завдяки "фільтру новин" може надати людям можливість одразу знаходити належні статті, відокремлюючи їх від загальної маси. Таким чином, тема курсової роботи обумовлена бажанням мінізувати час на знаходження цікавої для людини інформації.
 
@@ -20,7 +19,7 @@ This work is devoted to dealing with such problem as spending your time on searc
 -	https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 -	http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/
 -	І т.д.
--	
+
 Було обрано створювати NLP за допомогою лексикону (бібліотеки) fastText (https://fasttext.cc/docs/en/supervised-tutorial.html). FastText - це бібліотека для вивчення вбудовування слів і класифікації тексту, створена дослідною лабораторією Facebook в області штучного інтелекту.
 
  Прикладами створення NLP на основі Sentiment Classification є:
@@ -29,6 +28,6 @@ This work is devoted to dealing with such problem as spending your time on searc
 -	https://medium.com/neo4j/making-sense-of-news-the-knowledge-graph-way-d33810ce5005
 
 
-
+Виконала: Копернак Ліза, ІО-91
 
                                  	
