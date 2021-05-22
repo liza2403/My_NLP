@@ -1,40 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@liza2403 
-dusht0814
-/
-News-Recommendation-System
-0
-01
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-News-Recommendation-System/login.py /
-@dusht0814
-dusht0814 Add files via upload
-Latest commit 0dee0c9 on 5 Jun 2018
- History
- 1 contributor
-151 lines (136 sloc)  6.26 KB
-  
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'login.ui'
-#
-# Created by: PyQt4 UI code generator 4.11.4
-#
-# WARNING! All changes made in this file will be lost!
 
 from PyQt4 import QtCore, QtGui
 from welcome import Ui_MainWindow
